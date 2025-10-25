@@ -1,4 +1,5 @@
 Feminist Park — HTML Website Project
+
 A coded, accessibility-centered website promoting feminist education and community action. Built using HTML5, CSS3, and semantic design principles, this project demonstrates front-end development, responsive web design, and SEO optimization techniques applied to real-world advocacy.
 
 Live website: www.feminist-park.org
